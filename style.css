@@ -1,0 +1,16 @@
+form {
+  margin: 0 auto;
+  width: 400px;
+  padding: 1em;
+  border: 1px solid #ffffff;
+  border-radius: 1em;
+  background-color: #f3eb0e;
+}
+
+.telalogin {
+  color: #7b0f0f;
+}
+
+a {
+  color: rgb(13, 66, 144);
+}
